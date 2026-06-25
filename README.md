@@ -1,90 +1,64 @@
-<h1 align="center">Hello, 👋 My name is Pedro Antônio!</h1>
+# Olá, eu sou o Pedro! 👋
 
-###
+**Desenvolvedor Full-Stack | Engenheiro de Software**
 
-<p align="left">🌍  I'm based in Cascavel, Ceará.<br>🌱 I'm always learning new technologies.<br>💬  I'm always willing to talk and listen.</p>
+Sou um desenvolvedor apaixonado por arquitetar sistemas completos, desde interfaces de usuário reativas até back-ends escaláveis e infraestruturas robustas. Tenho experiência prática em liderar a estruturação tecnológica de negócios, combinando desenvolvimento de software, automação avançada e gerenciamento de servidores.
 
-###
+Atualmente, meu foco principal é o ecossistema **TypeScript**, construindo APIs modernas, dashboards analíticos e soluções de infraestrutura interna.
 
-<h2 align="left">About me 📖</h2>
+---
 
-###
+### 🎓 Formação Acadêmica
 
-<p align="left">I am a very excited person and always willing to learn in search of new challenges. <br>I am currently a front-end developer, but I intend to follow a full-stack developer path.</p>
+*   **Análise e Desenvolvimento de Sistemas** — Universidade de Fortaleza (UNIFOR) *(Em andamento)*
 
-###
+---
 
-<h2 align="left">Contact-me</h2>
+### 🚀 O que eu faço
 
-###
+*   **Desenvolvimento Front-end:** Criação de dashboards complexos e sistemas interativos utilizando **NextJS** e **NuxtJS (Vue)**.
+*   **Arquitetura Back-end:** Construção de APIs robustas e escaláveis com **NestJS**, gerenciamento de dados com **PostgreSQL** e ORMs como **Prisma** e **TypeORM**.
+*   **Automação & Integração:** Desenvolvimento de fluxos de automação complexos, integração de webhooks via **n8n** e criação de bots avançados (como Userbots no Telegram utilizando **GramJS**).
+*   **DevOps & Infraestrutura:** Gerenciamento de ambientes *self-hosted* em servidores **Linux (Ubuntu)** utilizando **Easypanel**, além de orquestração de deploy contínuo em plataformas como **Vercel** para ecossistemas de dashboard.
+*   **Sistemas Corporativos:** Estruturação de redes e domínios dedicados para sistemas internos e operações de T.I.
 
-<div align="left">
-  <a href="https://wa.me/5585991347698?text=Ol%C3%A1%2C%20Falo%20com%20Pedrooaj%3F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/pedrooaj/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://linkedin.com/in/pedro-antônio-l3m0z" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+### 💻 Stack Tecnológica
 
-<p align="left">✉️ pedroantonio5735@gmail.com</p>
+**Front-end:**  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00C58E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-###
+**Back-end & Banco de Dados:**  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<h2 align="left">I code with 🚀</h2>
+**Infraestrutura & Ferramentas:**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
-###
-<div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroL3m0z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </div>
-<br />
-  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+---
 
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+### 📊 Estatísticas do GitHub
 
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroL3m0z&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do Pedro" />
+  <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=PedroL3m0z&layout=compact&theme=radium&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+### 📫 Como me encontrar
 
-<br />
+*   **LinkedIn:** [Seu Perfil do LinkedIn Aqui](https://linkedin.com/in/seu-perfil)
+*   **E-mail:** [Seu E-mail Profissional Aqui]
 
-  
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+### ☕ Apoie meu trabalho
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+Se os meus repositórios ou projetos te ajudaram de alguma forma, considere me pagar um café! 
 
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedroantonl)
 
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  </div>
-  
-###
+<br>
 
-
-
-
-
-
-
-
-</div>
-
-###
+*"Construindo soluções que conectam infraestrutura sólida a interfaces excepcionais."*
