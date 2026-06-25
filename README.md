@@ -39,9 +39,7 @@ Atualmente, meu foco principal é o ecossistema **TypeScript**, construindo APIs
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do Pedro](https://github-readme-stats.vercel.app/api?username=PedroL3m0z&show_icons=true&theme=dracula&hide_border=false&locale=en)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Pedrol3m0z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2)
+![Estatísticas do Pedro](https://github-readme-stats.vercel.app/api?username=PedroL3m0z&show_icons=true&theme=dracula&hide_border=false&locale=en) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Pedrol3m0z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2)
 
 ---
 
