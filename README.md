@@ -47,7 +47,7 @@ Atualmente, meu foco principal é o ecossistema **TypeScript**, construindo APIs
 
 ### 📫 Como me encontrar
 
-*   **LinkedIn:** (https://www.linkedin.com/in/pedrol3m0z/)
+*   **LinkedIn:** https://www.linkedin.com/in/pedrol3m0z/
 *   **E-mail:** pedroantonio5735@gmail.com
 
 ---
